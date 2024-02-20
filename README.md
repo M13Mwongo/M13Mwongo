@@ -1,7 +1,7 @@
 <picture style='text-align:center'>
  <source media="(prefers-color-scheme: dark)" srcset="[YOUR-DARKMODE-IMAGE](https://github.com/M13Mwongo/M13Mwongo/blob/main/logo_light.png)">
  <source media="(prefers-color-scheme: light)" srcset="[YOUR-LIGHTMODE-IMAGE](https://github.com/M13Mwongo/M13Mwongo/blob/main/logo_light.png)">
- <img alt="Logo" src="https://github.com/M13Mwongo/M13Mwongo/blob/main/logo_dark.png">
+ <img alt="Logo" src="https://github.com/M13Mwongo/M13Mwongo/blob/main/logo_light.png">
 </picture>
 
 ### Hi there 👋
